@@ -14,4 +14,5 @@
   - View the current inventory.
   - Search for items by name.
 
-
+## Version 1.2
+-added missing parenthesis
